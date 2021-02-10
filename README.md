@@ -1,6 +1,6 @@
 # Data_houses.csv
 Data houses 
-Scrapped house data for Yerevan, as of 04.2020, that are currently on sale. 
+Scrapped house data for Yerevan, as of 04.2020, that were on sale that time. 
 
 This project will help to understand the relationships between house feature variables and its prices for the local Armenian market, based on the data available in different online platforms. 
 It explores the direct relationships between house price and features such as sqm size, number of rooms, agency, district, building type, etc.
