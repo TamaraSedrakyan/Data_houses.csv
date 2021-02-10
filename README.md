@@ -1,4 +1,7 @@
-# Data_houses.csv
+# House Price Analysis 
+for Local Armenian Market
+Business Analytics, AUA
+
 Data houses 
 Scrapped house data for Yerevan, as of 04.2020, that were on sale that time. 
 
